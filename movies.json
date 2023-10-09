@@ -1,0 +1,143 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "year": 2020,
+      "rating": 5,
+      "status": true,
+      "title": "Фильм 1",
+      "director": "Режиссер 1",
+      "image": "https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/6/2/0/8324026/464018943954.jpg.webp"
+    },
+    {
+      "id": 2,
+      "year": 2021,
+      "rating": 5,
+      "status": true,
+      "title": "Фильм 2",
+      "director": "Режиссер 2",
+      "image": "https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/7/0/5/8365507/784229323236.jpg.webp"
+    },
+    {
+      "id": 3,
+      "rating": "4",
+      "year": 2021,
+      "status": true,
+      "title": "Фильм 3",
+      "director": "Режиссер 3",
+      "image": "https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/4/1/1/8372114/356725589283.jpg.webp"
+    },
+    {
+      "id": 4,
+      "rating": 4,
+      "year": 2023,
+      "status": true,
+      "title": "Фильм 4",
+      "director": "Режиссер 4",
+      "image": "https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/0/8/4/8366480/865894161237.jpg.webp"
+    },
+    {
+      "id": 5,
+      "rating": 2,
+      "year": 1920,
+      "status": true,
+      "title": "Фильм 5",
+      "director": "Режиссер 5",
+      "image": "https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/9/0/8/8368809/465880960970.jpg.webp"
+    },
+    {
+      "id": 6,
+      "rating": 4,
+      "year": 2020,
+      "status": true,
+      "title": "Фильм 6",
+      "director": "Режиссер 6",
+      "image": "https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/2/2/1/8371122/818449732351.jpg.webp"
+    },
+    {
+      "id": 8,
+      "year": 2000,
+      "rating": 3,
+      "status": true,
+      "title": "Фильм 8",
+      "director": "Режиссер 8",
+      "image": "https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/7/0/5/8365507/784229323236.jpg.webp"
+    },
+    {
+      "id": 9,
+      "rating": "1",
+      "year": 2023,
+      "status": true,
+      "title": "Фильм 9",
+      "director": "Режиссер 9",
+      "image": "https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/0/8/4/8366480/865894161237.jpg.webp"
+    },
+    {
+      "id": 23,
+      "rating": "3",
+      "year": 2021,
+      "status": true,
+      "title": "Фильм 23",
+      "director": "Режиссер 23",
+      "image": "https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/0/8/4/8366480/865894161237.jpg.webp"
+    },
+    {
+      "id": 24,
+      "rating": "5",
+      "year": 2020,
+      "status": true,
+      "title": "Фильм 24",
+      "director": "Режиссер 24",
+      "image": "https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/9/0/8/8368809/465880960970.jpg.webp"
+    },
+    {
+      "id": 26,
+      "rating": "3",
+      "year": 2022,
+      "status": true,
+      "title": "Фильм 26",
+      "director": "Режиссер 26",
+      "image": "https://static.kinoafisha.info/k/movie_posters/220/upload/movie_posters/2/2/1/8371122/818449732351.jpg.webp"
+    },
+    {
+      "id": "f29cefb4-f5eb-4e45-ba00-f6e5d9da421d",
+      "rating": "5",
+      "status": true,
+      "title": "dsfdsf",
+      "image": "https://avatars.mds.yandex.net/get-entity_search/8076986/687304358/S134x201_2x",
+      "year": "4"
+    },
+    {
+      "id": "f970e805-a534-4dcb-a5c1-f58088aeed7e",
+      "rating": "5",
+      "status": true,
+      "title": "dasd",
+      "image": "https://avatars.mds.yandex.net/get-entity_search/8076986/687304358/S134x201_2x",
+      "year": "4"
+    },
+    {
+      "id": "b9ba5d57-aa1d-46b5-9646-8b9444fb1339",
+      "rating": 0,
+      "status": false,
+      "title": "film 111",
+      "image": "https://avatars.mds.yandex.net/get-ott/236744/2a00000181251bb54151d36d7802633a412a/340x510",
+      "year": "2011"
+    },
+    {
+      "id": "4c318356-7ba9-4424-9a3b-8bbb4cef056a",
+      "rating": 0,
+      "status": false,
+      "title": "film ",
+      "image": "https://avatars.mds.yandex.net/get-ott/1534341/2a000001840aa0ab86702122ad6a935505fa/340x510",
+      "year": "2021"
+    },
+    {
+      "id": "369efffa-5246-4082-93ab-db3acb8df34c",
+      "rating": 0,
+      "status": false,
+      "title": " falm 123",
+      "image": "https://avatars.mds.yandex.net/get-ott/239697/2a0000018383a5aadfc832ad49dc07e02268/340x510",
+      "year": "2009"
+    }
+  ]
+}
